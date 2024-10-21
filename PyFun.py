@@ -1,4 +1,4 @@
-def square(x):
+def squareroot(x):
     return (x*x,x)
     
 
