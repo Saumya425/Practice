@@ -1,2 +1,2 @@
-def pow(x,n):
+def power(x,n):
     return x**n 
